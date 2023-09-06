@@ -1,0 +1,225 @@
+Travelia - Explore the world
+
+
+
+
+
+#---------- HEADER ----------#
+
+alt = logo
+
+aria-label = close menu
+<ion-icon name="close-outline" aria-hidden="true"></ion-icon>
+
+Home
+About
+Services
+Pricing
+Contact
+
+Login
+Sign Up
+
+aria-label = open menu
+<ion-icon name="menu-outline" aria-hidden="true"></ion-icon>
+
+
+
+#---------- HERO ----------#
+
+Explore the World
+alt = world icon
+
+It’s a Big World Out There, Go Explore
+
+We always make our customer happy by providing
+as many choices as possible
+
+Plan a Trip
+<ion-icon name="chevron-forward" aria-hidden="true"></ion-icon>
+
+alt = our story
+<ion-icon name="play" aria-hidden="true"></ion-icon>
+Watch our Story
+
+alt = hero banner
+
+
+
+#---------- SERVICE ----------#
+
+What We Serve
+
+Top Values For You
+
+Try a variety of benefits when
+using our services.
+
+alt = icon
+
+Lot Of Choices
+Total 460+ destinations that we work with.
+
+Best Tour Guide
+Our tour guide with 15+ years of experience.
+
+Easy Booking 
+With an easy and fast ticket purchase process.
+
+
+
+#---------- DESTINATION ----------#
+
+Top destination
+Explore Top Destination
+
+alt = Enjoy the Beauty of the del Pincio
+
+$340
+
+Enjoy the Beauty of the del Pincio
+
+Rome, Italy
+
+<ion-icon name="star" aria-hidden="true"></ion-icon>
+
+4.7
+(11.1k Review)
+
+
+Enjoy the Beauty of the Pakistan Monument
+
+Islamabad, Pakistan
+
+4.6
+(16.9k Review)
+
+
+Enjoy the Beauty of the Burj Khalifa
+
+Skyscraper in Dubai
+
+4.7
+(120k Review)
+
+
+Enjoy the Beauty of the Milaidhoo
+
+Island in the Maldives
+
+4.7
+(70 Review)
+
+
+Enjoy the Beauty of the Ko Tao
+
+Island in the Gulf of Thailand
+
+4.5
+(985 Review)
+
+
+Enjoy the Beauty of the Grand Mecidiye Mosque
+
+Mosque in Istanbul, Türkiye
+
+4.8
+(29.6k Review)
+
+
+View All Destination
+
+
+
+#---------- EXPERIENCE ----------#
+
+Our Experience
+With Our Experience We Will Serve You
+
+Since we first opened we have always prioritized the convenience of our users by providing low prices and with a easy process.
+
+20 
+
+Years 
+Experience
+
+460+
+
+Destination 
+Collaboration
+
+50K+
+
+Happy 
+Customer
+
+alt = experience banner
+alt = 24/7 Guide Support
+
+
+
+#---------- GALLERY ----------#
+
+Photo Gallery
+Photo’s From Travelers
+
+alt = gallery
+
+
+
+#---------- CTA ----------#
+
+Prepare Yourself & Let’s Explore The Beauty Of The World
+alt = icon
+
+We have many special offers especially for you.
+
+Get Started
+
+
+
+#---------- FOOTER ----------#
+
+alt = logo
+
+We always make our customer
+happy by providing as many
+choices as possible
+
+<ion-icon name="logo-instagram"></ion-icon>
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+
+About
+About Us
+Features
+News
+Menu
+
+Company
+Why Company
+Partner With Us
+FAQ
+Blog
+
+Support
+Account
+Support Center
+Feedback
+Contact Us
+Accessibility
+
+Get in Touch
+Question or feedback? We’d love to hear from you.
+
+placeholder = Email Address
+
+aria-label = send a message
+<ion-icon name="paper-plane-outline" aria-hidden="true"></ion-icon>
+
+Copyright 2023. Made by
+href = https://youtube.com/@codewithsadee
+codewithsadee
+
+Terms and Condition
+Privacy and Policy
